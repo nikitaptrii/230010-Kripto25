@@ -8,4 +8,4 @@
 ![DECODE](images/decode.png)  
 
 # KELUAR
-![KELUAR](images/keluar program.png)
+![KELUAR](images/keluar.png)
